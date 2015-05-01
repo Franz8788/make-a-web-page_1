@@ -1,0 +1,65 @@
+
+<!-- #f2440f is a red color-->
+<!-- #f5b60a is an orange color-->
+<!-- #1717e8 is a blue color-->
+<!-- #0ba339 is a green color-->
+<!-- #d9dedb is a grey color-->
+<!-- #dced21 is a yellow color-->
+
+<!-- http://www.colorpicker.com/ was used-->
+
+
+<style>
+
+.main-sections {
+background-color: #d9dedb;
+width: 960px;
+padding: 25px;
+border: 0px;
+margin: 25px;
+}
+
+
+.main-headings-h1-h2 {
+background-color: #d9dedb;
+width: 240px;
+padding: 0px;
+border: 0px;
+margin: 25px;
+}
+
+
+.list {
+width: 500px;
+padding: 5px;
+border: 2px solid black;
+margin: 5px;
+}
+
+
+span {
+background-color: #dced21;
+}
+
+
+h1{
+color: #f2440f;
+}
+
+
+h2{
+color: #f5b60a;
+}
+
+
+h3{
+color: #1717e8;
+}
+
+
+h4{
+color: #0ba339;
+}
+
+
+</style>
